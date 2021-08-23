@@ -5,6 +5,7 @@
 a. Time Complexity
 
 
+
 i. Analysis of Algorithms
 
 ii. Analysis of common loops, recursion
@@ -16,7 +17,9 @@ iv. Space Complexity
 v. Order of Growth
 
 
+
 b. Basics
+
 
 
 i. Arithmetic and Geometric Progressions
@@ -42,7 +45,9 @@ x. Maximum Power Dividing Factorial
 xi. Practice Problems
 
 
+
 c. Fibonacci
+
 
 
 i. Fibonacci Numbers and Implementation
@@ -68,7 +73,9 @@ x. Fibonacci Mod M
 xi. Practice Problems
 
 
+
 d. Bit Masking
+
 
 
 i. Bitwise OR, AND, XOR
@@ -93,7 +100,9 @@ x. Practice Problems
 
                        ● Module 2
 
+
 a. Prime Numbers
+
 
 
 i. Prime Number and Concept
@@ -105,7 +114,9 @@ iii. Segmented Sieve
 iv. Practice Problems
 
 
+
 b. Prime Factorization
+
 
 
 i. All prime factors of a number
@@ -117,7 +128,9 @@ iii. Prime factors for multiple queries
 iv. Practice Problems
 
 
+
 c. DIvisors
+
 
 
 i. O(sqrt(N)) approach
@@ -134,7 +147,9 @@ vi. Practice Problems
 
                        ● Module 3
 
+
 a. GCD & LCM
+
 
 
 i. GCD & LCM Concept
@@ -148,7 +163,9 @@ iv. Linear Diophantine Equation
 v. Practice Problems
 
 
+
 b. Number Theoretic Functions
+
 
 
 i. Euler Totient
@@ -160,7 +177,9 @@ iii. Euler Totient for 1 to N
 iv. Practice Problems
 
 
+
 c. Mathematics Principles
+
 
 
 i. Inclusion & Exclusion Principle
@@ -177,7 +196,9 @@ vi. Practice Problems
 
                        ● Module 4
 
+
 a. Modular Operations
+
 
 
 i. Modular arithmetic Introduction
@@ -203,7 +224,9 @@ x. Chinese Remainder Theorem
 xi. CRT Efficient Implementation
 
 
+
 b. Modular Exponentiation
+
 
 
 i. Computing Power
@@ -215,7 +238,9 @@ iii. Matrix Exponentiation
 iv. Fibonacci Number using Matrix Exponentiation
 
 
+
 c. Binomial Concepts
+
 
 
 i. Permutation
@@ -233,7 +258,9 @@ vi. nCr MOD p for large Prime
 vii. Practice Problems
 
 
+
 d. Catalan Number
+
 
 
 i. Catalan Number and Concept
@@ -250,7 +277,9 @@ vi. Catalan Number Implementation Based Problems
 
                        ● Module 5
 
+
 a. Combinatorial Game Theory
+
 
 
 i. Introduction
@@ -272,7 +301,9 @@ viii. Working of Nim-Sum & Grundy Number Theorem
 ix. Practice Problems
 
 
+
 b. Geometric Algorithms
+
 
 
 i. Orientation of three ordered points
